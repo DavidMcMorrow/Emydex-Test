@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\3\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\3\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\3\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\3\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\3\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\3\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\3\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\Emydex Coding test\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\Emydex Coding test\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\Emydex Coding test\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\Emydex Coding test\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\Emydex Coding test\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\Emydex Coding test\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\Users\david\OneDrive\Fifth Year\Careers Stuff\Emydex\Emydex Coding test\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
